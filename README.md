@@ -1,16 +1,24 @@
-# bonjour_app
+# 🚗 Car Management Mobile App
 
-A new Flutter project.
+A mobile app to manage cars, drivers, and services.
 
-## Getting Started
+## 📷 Screenshots
 
-This project is a starting point for a Flutter application.
+watch file 
 
-A few resources to get you started if this is your first Flutter project:
+## 🛢️ Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project uses a local SQLite database.  
+📁 The file is located at: `database/myapp.db`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Technologies
+
+- Flutter (or Android)
+- SQLite for local storage
+- VS Code
+
+## 📦 How to Run
+
+1. Clone the repo
+2. Open with VS Code
+3. Run with emulator or physical device
