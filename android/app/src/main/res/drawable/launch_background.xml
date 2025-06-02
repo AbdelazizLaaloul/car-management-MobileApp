@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" /> <!-- couleur de fond -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/fish_removebg_preview" /> <!-- image du logo -->
+    </item>
+</layer-list>
